@@ -1,4 +1,4 @@
-%%writefile a_star.py
+# %%writefile a_star.py
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
